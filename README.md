@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a junior HTML front-end developer with basic HTML CSS and JS skills.
+
 <!--
 **D3ATH367/D3ATH367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
